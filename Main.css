@@ -1,0 +1,71 @@
+body {
+    margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+/* Head */
+/*======*/
+.Header {
+    padding: 25px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.Title {
+    text-decoration: underline;
+}
+
+h1{
+    font-size: 50px;
+    /*Size of the title*/
+}
+
+/* Menu */
+/*======*/
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(53, 53, 53);
+    margin: 0%; /*puts the default away*/
+    padding: 0%;  /*puts the default away*/
+}
+
+li {
+    /*set the menu to horizontal*/
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black; /*When hover over menu, text will be black*/
+}
+
+#Home {
+    float: right;
+}
+
+/* Heroes */
+/*========*/
+.Head {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+#ImgSpiderman {
+    align: left;
+    position: fixed;
+    margin-top: 0%;
+}
+p{
+    text-align: right;
+}
