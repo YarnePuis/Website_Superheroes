@@ -1,6 +1,7 @@
 body {
     margin: 0%;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gray;
 }
 
 /* Head */
@@ -63,9 +64,9 @@ a:hover {
     display: flex; /*use this to set text next to your image */
 }
 
-#SubTitle {
+.SubTitle {
     text-align: center;
-    border: solid gray 6px;
+    border: solid black 6px;
     margin-left: 40%;
     margin-right: 40%;
     border-radius: 5px;
@@ -73,6 +74,11 @@ a:hover {
 }
 
 .Description {
-    margin: 10px;
+    margin: 20px;
     font-size: 20px;
+}
+
+#Mooi {
+    text-align: center;
+    font-size: 30px;
 }

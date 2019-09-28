@@ -11,3 +11,10 @@ Werken met Visual Studio Code
 * Verder werken aan character Spiderman
 
 Gevonden met flexbox hoe je naast een foto kan schrijven.
+
+## Dag 3 27/09/2019
+* Hawkeye character maken 
+* Iron Man character maken
+* Nieuw idee voor het menu
+
+Nog op zoek naar meer superhelden om te beschrijven.
